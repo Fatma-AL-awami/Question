@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Questions</string>
+    <string name="question_text">Canberra is the capital of Australia.</string>
+    <string name="true_button">True</string>
+    <string name="next_button">Next</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="prev_description">Imagebutton(prev)</string>
+    <string name="next_description">Imagebutton(next)</string>
+    /////difucult/////////
+    <string name="question_australia">Canberra is the capital of Australia.</string>
+    <string name="question_oceans">The Pacific Ocean is larger than
+the Atlantic Ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea
+and the Indian Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The Amazon River is the longest river
+in the Americas.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest
+freshwater lake.</string>
+    /////////esay//////////
+    <string name="question1">In space, you cannot cry</string>
+    <string name="question2">A cockroach will live for nine days without its head, before it starves to death</string>
+    <string name="question3">Men can hear better than women.</string>
+    <string name="question4">The inventor of the light bulb, Thomas Edison, was afraid of the dark </string>
+
+    ///////medum//////////
+    <string name="questionm1">The strongest muscle in proportion to its size in the human body is the tongue</string>
+    <string name="questionm2">The letter T is the most common in the English Language</string>
+    <string name="questionm3">The number of programming languages is 49</string>
+    <string name="questionm4">The most popular programming language is Python</string>
+
+    .........................................
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>
